@@ -1,0 +1,3 @@
+C:/Users/HP/OneDrive - UNIVERSIDAD ANDRES BELLO/5to Semestre UNAB/Paradigmas/Codigos/Tarea1V1/cmake-build-debug/CMakeFiles/Tarea1V1.dir
+C:/Users/HP/OneDrive - UNIVERSIDAD ANDRES BELLO/5to Semestre UNAB/Paradigmas/Codigos/Tarea1V1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/OneDrive - UNIVERSIDAD ANDRES BELLO/5to Semestre UNAB/Paradigmas/Codigos/Tarea1V1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
